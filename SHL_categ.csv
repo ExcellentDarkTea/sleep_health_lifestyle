@@ -1,0 +1,375 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Heart Rate,Daily Steps,Sleep Disorder
+1,Male,20−29,Software Engineer,Low,Normal,Moderate,Normal,Overweight,Normal,Low,
+2,Male,20−29,Doctor,Low,Normal,Moderate,High,Normal,Normal,High,
+3,Male,20−29,Doctor,Low,Normal,Moderate,High,Normal,Normal,High,
+4,Male,20−29,Sales Representative,Low,Bad,Low,High,Obese,High,Low,Sleep Apnea
+5,Male,20−29,Sales Representative,Low,Bad,Low,High,Obese,High,Low,Sleep Apnea
+6,Male,20−29,Software Engineer,Low,Bad,Low,High,Obese,High,Low,Insomnia
+7,Male,20−29,Teacher,Low,Normal,Moderate,Normal,Obese,High,Low,Insomnia
+8,Male,20−29,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+9,Male,20−29,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+10,Male,20−29,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+11,Male,20−29,Doctor,Low,Normal,Low,High,Normal,Normal,High,
+12,Male,20−29,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+13,Male,20−29,Doctor,Low,Normal,Low,High,Normal,Normal,High,
+14,Male,20−29,Doctor,Low,Normal,Low,High,Normal,Normal,High,
+15,Male,20−29,Doctor,Low,Normal,Low,High,Normal,Normal,High,
+16,Male,20−29,Doctor,Low,Normal,Low,High,Normal,Normal,High,
+17,Female,20−29,Nurse,Low,Normal,Moderate,Normal,Normal,Normal,Low,Sleep Apnea
+18,Male,20−29,Doctor,Low,Normal,Low,High,Normal,Normal,High,Sleep Apnea
+19,Female,20−29,Nurse,Low,Normal,Moderate,Normal,Normal,Normal,Low,Insomnia
+20,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+21,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+22,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+23,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+24,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+25,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+26,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+27,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+28,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+29,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+30,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+31,Female,30−39,Nurse,Low,Normal,Low,Normal,Normal,Normal,Low,Sleep Apnea
+32,Female,30−39,Nurse,Low,Normal,Low,Normal,Normal,Normal,Low,Insomnia
+33,Female,30−39,Nurse,Normal,Good,High,Low,Normal,Low,Moderate,
+34,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+35,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+36,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+37,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+38,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+39,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+40,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+41,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+42,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+43,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+44,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+45,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+46,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+47,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+48,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+49,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+50,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,Sleep Apnea
+51,Male,30−39,Engineer,Normal,Good,Moderate,Low,Normal,Normal,High,
+52,Male,30−39,Engineer,Normal,Good,Moderate,Low,Normal,Normal,High,
+53,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+54,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+55,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+56,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+57,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+58,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+59,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+60,Male,30−39,Doctor,Normal,Normal,High,Normal,Normal,Normal,High,
+61,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+62,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+63,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+64,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+65,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+66,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+67,Male,30−39,Accountant,Normal,Good,Moderate,Normal,Normal,Low,Moderate,
+68,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,Insomnia
+69,Female,30−39,Scientist,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,
+70,Female,30−39,Scientist,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,
+71,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+72,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+73,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+74,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+75,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+76,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+77,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+78,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+79,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+80,Male,30−39,Doctor,Low,Normal,Low,High,Normal,Normal,Moderate,
+81,Female,30−39,Scientist,Low,Bad,Low,High,Overweight,High,Moderate,Sleep Apnea
+82,Female,30−39,Scientist,Low,Bad,Low,High,Overweight,High,Moderate,Sleep Apnea
+83,Male,30−39,Teacher,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,
+84,Male,30−39,Teacher,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,
+85,Male,30−39,Software Engineer,Normal,Good,Moderate,Normal,Normal,Normal,High,
+86,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+87,Male,30−39,Engineer,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+88,Male,30−39,Engineer,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+89,Male,30−39,Engineer,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+90,Male,30−39,Engineer,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+91,Male,30−39,Engineer,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+92,Male,30−39,Engineer,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+93,Male,30−39,Software Engineer,Normal,Good,Moderate,Normal,Normal,Normal,High,
+94,Male,30−39,Lawyer,Normal,Normal,Moderate,Normal,Obese,High,Low,Sleep Apnea
+95,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,Insomnia
+96,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+97,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+98,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+99,Female,30−39,Teacher,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+100,Female,30−39,Teacher,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+101,Female,30−39,Teacher,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+102,Female,30−39,Teacher,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+103,Female,30−39,Teacher,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+104,Male,30−39,Teacher,Normal,Normal,Low,Normal,Overweight,Normal,Low,Sleep Apnea
+105,Female,30−39,Teacher,Normal,Good,Moderate,Low,Normal,Low,Moderate,Sleep Apnea
+106,Male,30−39,Teacher,Normal,Normal,Low,Normal,Overweight,Normal,Low,Insomnia
+107,Female,30−39,Nurse,Low,Normal,Moderate,Normal,Overweight,Normal,Low,
+108,Male,30−39,Engineer,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+109,Male,30−39,Engineer,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+110,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+111,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+112,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+113,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+114,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+115,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+116,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+117,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+118,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+119,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+120,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+121,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+122,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+123,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+124,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+125,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+126,Female,30−39,Nurse,Normal,Good,Moderate,Low,Normal,Normal,High,
+127,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+128,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+129,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+130,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+131,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+132,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+133,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+134,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+135,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+136,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+137,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+138,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+139,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+140,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+141,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+142,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+143,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+144,Female,30−39,Accountant,Normal,Good,Moderate,Low,Normal,Low,Moderate,
+145,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,Sleep Apnea
+146,Female,30−39,Lawyer,Normal,Normal,Moderate,Normal,Obese,High,Low,Sleep Apnea
+147,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,Insomnia
+148,Male,30−39,Engineer,Low,Normal,Moderate,Normal,Overweight,Normal,Low,Insomnia
+149,Female,30−39,Lawyer,Normal,Normal,Moderate,Normal,Normal,Normal,Moderate,
+150,Female,30−39,Accountant,Normal,Good,High,Low,Normal,Low,High,
+151,Female,30−39,Accountant,Normal,Good,High,Low,Normal,Low,High,
+152,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+153,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+154,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+155,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+156,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+157,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+158,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+159,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+160,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+161,Male,30−39,Lawyer,Normal,Good,Moderate,Normal,Normal,Low,High,
+162,Female,40−49,Accountant,Normal,Good,Moderate,Normal,Normal,Normal,High,
+163,Female,40−49,Accountant,Normal,Good,Moderate,Normal,Normal,Normal,High,
+164,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Low,High,
+165,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Low,High,
+166,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,Insomnia
+167,Male,40−49,Engineer,Normal,Good,Moderate,Normal,Normal,Normal,Moderate,
+168,Male,40−49,Lawyer,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,
+169,Male,40−49,Lawyer,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,
+170,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+171,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+172,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+173,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+174,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+175,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+176,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+177,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+178,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+179,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+180,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+181,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+182,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+183,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+184,Male,40−49,Lawyer,Normal,Good,High,Normal,Normal,Normal,High,
+185,Female,40−49,Teacher,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,Sleep Apnea
+186,Female,40−49,Teacher,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,Sleep Apnea
+187,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+188,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+189,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+190,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+191,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+192,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+193,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+194,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+195,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+196,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+197,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+198,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+199,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+200,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+201,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+202,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,Insomnia
+203,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,Insomnia
+204,Male,40−49,Engineer,Normal,Normal,Moderate,Normal,Normal,Low,Moderate,
+205,Male,40−49,Engineer,Normal,Good,High,Low,Overweight,Low,Moderate,
+206,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+207,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+208,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+209,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+210,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+211,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+212,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+213,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+214,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+215,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+216,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+217,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+218,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,
+219,Male,40−49,Engineer,Normal,Good,High,Normal,Normal,Normal,High,Sleep Apnea
+220,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Sleep Apnea
+221,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+222,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+223,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+224,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+225,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+226,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+227,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+228,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+229,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+230,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+231,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+232,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+233,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+234,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+235,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+236,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+237,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+238,Female,40−49,Teacher,Low,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+239,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+240,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+241,Female,40−49,Teacher,Low,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+242,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+243,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+244,Female,40−49,Teacher,Low,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+245,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+246,Female,40−49,Teacher,Low,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+247,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+248,Male,40−49,Engineer,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+249,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,
+250,Male,40−49,Salesperson,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,
+251,Female,40−49,Teacher,Normal,Normal,Low,Normal,Overweight,Low,Moderate,Insomnia
+252,Female,40−49,Teacher,Normal,Normal,Low,Normal,Overweight,Low,Moderate,Insomnia
+253,Female,40−49,Teacher,Low,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+254,Female,40−49,Teacher,Low,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+255,Female,40−49,Teacher,Low,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+256,Female,40−49,Teacher,Low,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+257,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+258,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+259,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+260,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+261,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,Insomnia
+262,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,
+263,Female,40−49,Teacher,Normal,Normal,Moderate,Low,Overweight,Low,Moderate,
+264,Female,40−49,Manager,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,
+265,Male,40−49,Doctor,Normal,Normal,Moderate,Normal,Obese,High,Low,Insomnia
+266,Female,40−49,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+267,Male,40−49,Doctor,Normal,Normal,Moderate,Normal,Obese,High,Low,Insomnia
+268,Female,40−49,Nurse,Low,Normal,High,High,Overweight,Normal,High,
+269,Female,40−49,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+270,Female,40−49,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+271,Female,40−49,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+272,Female,40−49,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+273,Female,40−49,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+274,Female,40−49,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+275,Female,40−49,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+276,Female,40−49,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+277,Male,40−49,Doctor,Normal,Good,High,Low,Obese,High,Low,Sleep Apnea
+278,Male,40−49,Doctor,Normal,Good,High,Low,Obese,High,Low,Sleep Apnea
+279,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Insomnia
+280,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+281,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,
+282,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+283,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+284,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+285,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+286,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+287,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+288,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+289,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+290,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+291,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+292,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+293,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+294,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+295,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+296,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+297,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+298,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+299,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+300,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+301,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+302,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+303,Female,50−59,Nurse,Normal,Normal,Moderate,Normal,Normal,Normal,Moderate,
+304,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+305,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+306,Female,50−59,Nurse,Low,Normal,High,High,Overweight,Normal,High,Sleep Apnea
+307,Female,50−59,Accountant,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+308,Female,50−59,Accountant,Low,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+309,Female,50−59,Accountant,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+310,Female,50−59,Accountant,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+311,Female,50−59,Accountant,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+312,Female,50−59,Accountant,Normal,Normal,Moderate,Normal,Overweight,Normal,Moderate,Insomnia
+313,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+314,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+315,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+316,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,Insomnia
+317,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+318,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+319,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+320,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+321,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+322,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+323,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+324,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+325,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+326,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+327,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+328,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+329,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+330,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+331,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+332,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+333,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+334,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+335,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+336,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+337,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+338,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+339,Female,50−59,Engineer,Normal,Good,Low,Low,Normal,Low,Moderate,
+340,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Normal,Moderate,Sleep Apnea
+341,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Normal,Moderate,Sleep Apnea
+342,Female,50−59,Doctor,Normal,Good,High,Low,Normal,Low,High,
+343,Female,50−59,Doctor,Normal,Good,High,Low,Normal,Low,High,
+344,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,
+345,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+346,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+347,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+348,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+349,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+350,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+351,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+352,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+353,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+354,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+355,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+356,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+357,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+358,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+359,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,
+360,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,
+361,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+362,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+363,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+364,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+365,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+366,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+367,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+368,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+369,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+370,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+371,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+372,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+373,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
+374,Female,50−59,Nurse,Normal,Good,High,Low,Overweight,Low,Moderate,Sleep Apnea
